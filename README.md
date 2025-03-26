@@ -13,6 +13,6 @@
 
 
 ###  공부환경
-- 'python 3.13.1'
+- `python 3.13.1`
 - vs code
 - google colab
